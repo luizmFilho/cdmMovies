@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
   Container _body() {
     return Container(
       color: Colors.white,
-      child: _text(),
+      child: Image.asset("assets/images/movie1.jpg"),
     );
   }
 
